@@ -1,7 +1,7 @@
 ## FreeCodeCamp "Technical Documentation Page" Project
 This is a project for FreeCodeCamp's Responsive Web Design certification.
 
-you can check the project in its <a href="https://codepen.io/andresprza/full/rNJeYRR">CodePen</a>.
+you can check the project on its <a href="https://codepen.io/andresprza/full/rNJeYRR">CodePen</a>.
 
 you can also check my <a href="https://www.freecodecamp.org/certification/andresprza/responsive-web-design">Responsive Web Design certification</a>.
 
