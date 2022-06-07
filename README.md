@@ -7,3 +7,6 @@ you can also check my <a href="https://www.freecodecamp.org/certification/andres
 
 ### Project status
 This project is **finished** and i have no plan on updating it at the moment
+
+### Preview
+![image](./TechnicalDocumentationPage_ScreenShot.png)
